@@ -1,4 +1,4 @@
-# 🏰 Dungeon Crawler Roguelike
+# 🏰 Roguelike Wizard Arena
 
 Um jogo **Roguelike 2D** desenvolvido em Python, focado em **Lógica de Programação**, **Orientação a Objetos** e **Geração Procedural**.
 
