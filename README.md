@@ -2,8 +2,6 @@
 
 Um jogo **Roguelike 2D** desenvolvido em Python, focado em **Lógica de Programação**, **Orientação a Objetos** e **Geração Procedural**.
 
-> 🚧 **Projeto desenvolvido para o Desafio Técnico da Kodland.**
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Engine](https://img.shields.io/badge/Engine-Pygame_Zero-red?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Backend_%26_Logic-green?style=for-the-badge)
